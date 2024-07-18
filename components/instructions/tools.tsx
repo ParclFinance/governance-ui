@@ -327,6 +327,9 @@ export const ACCOUNT_NAMES = {
   '6gwjRFcW1Y9iuJwXPdz1zZUa3Hcu855dH6APA5LjD8qK':
     'AllDomains Treasury Governance',
   AWVUWfRnHCTgo123mRXB9BRWaxt6JdZXXKhFMQ5mryKJ: 'AllDomains DAO Governance',
+
+    // Parcl DAO
+  '9Waj7NNTzEhyHf1j1F36xgtnXaLoAxVBFhf6VxE9fgaf': 'Parcl DAO Realm',
 }
 
 // TODO: Add this to on-chain metadata to Governance account
@@ -342,6 +345,8 @@ export const HIDDEN_GOVERNANCES = new Map<string, string>([
   ['4styeLGsBRpV4xKsCNMRPb94U7JN8ZXoXJTLZA5hdjo9', ''],
   ['CKWNNwtn5nbsGMkvtRwHDv4QTyoHMByKVd7Ypo2deNpc', ''],
   ['G8JgCHfca7PehBwRp1Q91smJ9CXAd8K9e9CpfVjyD2MP', ''],
+  ['8msNFq5VBectsGAv66zYx5QRve1p3m6ZEz49xaWX3tbd', ''],
+  ['3jU2YuKXKBw4cWx9taPDfhQZ8RFLmFUx3HLxMrh7w749', ''],
 ])
 
 // TODO: Add this to on-chain metadata to Proposal account
